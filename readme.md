@@ -8,9 +8,15 @@ By the end of this project you will:
 - install a npm package.
 - debug a piece of code.
 
-## Introduction
+## Introduction - How to run our Movie Quotes App
 
-Our intern Dan is working on this killer Movie Quotes App that returns a random movie quote. Right now all it does is render a blank screen in the web browser. Fork the repository found here and help Dan fix it.  
+Our intern Dan worked on this killer Movie Quotes App that returns a random movie quote.
+
+In order to get this app to work, please do the following:
+
+ - Write "npm install" on your terminal - This will allow our package manager to install all dependencies, including our quote generator.
+ - Write "node index.js" on your terminal - Our app will start a server and is listening for connections, specifically port 3000.
+ - In your web browser, write "http://localhost:3000/" - We can now see our app. Feel free to refresh to see more movie quotes!
 
 ## Specifications
 
